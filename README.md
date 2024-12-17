@@ -1,1 +1,1 @@
-# Rex Command Line Inbterface
+# Rex: A Command Line Interface
