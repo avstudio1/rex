@@ -1,1 +1,8 @@
-# Rex: A command line interface by stiamprie
+▗▄▄▖ ▗▄▄▄▖▗▖  ▗▖
+▐▌ ▐▌▐▌    ▝▚▞▘ 
+▐▛▀▚▖▐▛▀▀▘  ▐▌  
+▐▌ ▐▌▐▙▄▄▖▗▞▘▝▚▖
+
+# A command line interface by stiamprie
+
+## Notes
