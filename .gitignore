@@ -3,7 +3,6 @@
 #
 # Binaries for programs and plugins
 *.exe
-*.exe~
 *.dll
 *.so
 *.dylib
@@ -19,7 +18,7 @@
 admin/
 output/
 
-# Go workspace file
+# Go Files
 go.work
 go.work.sum
 
