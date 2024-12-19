@@ -17,6 +17,7 @@
 
 # Directories
 admin/
+output/
 
 # Go workspace file
 go.work
