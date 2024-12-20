@@ -24,7 +24,7 @@ the .env file and testing the connection to the X API.`,
 			log.Fatalf("Error loading .env file: %v", err)
 		}
 
-		apiKey := os.Getenv("API_KEY")
+		apiKey := os.Getenv("X_API_KEY")
 		if apiKey == "" {
 			log.Fatal("API_KEY is not set in .env")
 		}
