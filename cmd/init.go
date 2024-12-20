@@ -51,6 +51,7 @@ func loadEnv() error {
 func testXAPIConnection(apiKey string) error {
 	client := &http.Client{}
 	req, err := http.NewRequest("GET", xAPIURL, nil)
+
 	if err != nil {
 		return fmt.Errorf("failed to create request: %w", err)
 	}
